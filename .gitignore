@@ -1,0 +1,5 @@
+venv/
+raw_wardrobe/
+clean_wardrobe/
+ready_wardrobe/
+mask_wardrobe/
